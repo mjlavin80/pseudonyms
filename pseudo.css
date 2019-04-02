@@ -1,0 +1,38 @@
+A:link { color: navy; }
+A:visited { color: teal; }
+A:active { color: olive; }
+A:hover { color: maroon; } 
+h1 {
+	text-align: center;
+}
+.RealName {
+	color: darkred;
+	font-weight: bold;
+}
+.PseudoName {
+	color: darkred;
+	font-weight: normal;
+}
+.XrefName {
+	font-weight: bold;
+	}
+.Dates {
+	color: black;
+	font-weight: normal;
+}
+.pseudos {
+	color: balck;
+	font-weight: normal;
+	margin-left: 20px;
+}
+.mainlinks {
+	margin-left: 20px;	
+	font-weight: bold;
+}
+.crosslinks {
+	font-weight: bold;
+}
+.precross {
+	margin-left: 20px;	
+	color: black;
+}
